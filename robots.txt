@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://harshp-zigs.github.io/ai-project-stall-prevention-guide/sitemap.xml
